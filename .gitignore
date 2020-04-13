@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+.env
+bin/firebase_config.json
+bin/firestore_config.json
